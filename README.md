@@ -1,6 +1,7 @@
-<h3 align="center">Research Assistant UCLAB</h3>
+<h3 align="center">Research Assistant at UCLAB</h3>
+<h6 align="center">I ❤️ working with anything AI-Image related!</h6>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
