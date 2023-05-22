@@ -36,6 +36,6 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 <img align="right" src="https://github.com/ben2002chou/ben2002chou/assets/114431877/aa1ba611-f48a-4b11-82ac-0dc46d3e4d4f" width="190" height="190"/> 
-<img align="right" src="https://github.com/ben2002chou/ben2002chou/assets/114431877/81cb42b2-2106-46c6-a928-47a5b7589840" width="300" height="190"/> 
+<img align="right" src="https://github.com/ben2002chou/ben2002chou/assets/114431877/81cb42b2-2106-46c6-a928-47a5b7589840" width="200" height="130"/> 
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2002chou&show_icons=true&theme=transparent)
