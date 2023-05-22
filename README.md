@@ -35,5 +35,4 @@
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ben2002chou&show_icons=true&locale=en" alt="ben2002chou" /></p>
-
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2002chou&show_icons=true&theme=transparent)
