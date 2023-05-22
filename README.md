@@ -1,6 +1,7 @@
-<img align="right" src="https://github.com/ben2002chou/ben2002chou/assets/114431877/22cfe4db-0b63-404d-9188-4aa7dca808e0" width="140" height="140">
+<img align="right" src="https://github.com/ben2002chou/ben2002chou/assets/114431877/aa1ba611-f48a-4b11-82ac-0dc46d3e4d4f" width="140" height="140"/> 
 <h3 align="center">Research Assistant at UCLAB</h3>
 <h6 align="center">I ❤️ working with anything AI-Image related!</h6>
+
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="center">
