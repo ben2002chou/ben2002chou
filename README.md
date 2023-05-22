@@ -34,7 +34,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-<img align="right" src="https://github.com/ben2002chou/ben2002chou/assets/114431877/aa1ba611-f48a-4b11-82ac-0dc46d3e4d4f" width="140" height="140"/> 
+<img align="right" src="https://github.com/ben2002chou/ben2002chou/assets/114431877/aa1ba611-f48a-4b11-82ac-0dc46d3e4d4f" width="160" height="160"/> 
 
     
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2002chou&show_icons=true&theme=transparent)
