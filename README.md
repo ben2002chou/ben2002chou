@@ -37,5 +37,5 @@
 <img align="right" src="https://github.com/ben2002chou/ben2002chou/assets/114431877/aa1ba611-f48a-4b11-82ac-0dc46d3e4d4f" width="155" height="155"/> 
 
     
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2002chou&show_icons=true&theme=transparent)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2002chou&show_icons=true&bg_color=00000000)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ben2002chou&theme=transparent&card_width=200&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
