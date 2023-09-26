@@ -1,5 +1,5 @@
 <h3 align="center">Research Assistant at UCLAB</h3>
-<h6 align="center">I ❤️ working with anything Computer Vision related!</h6>
+<h6 align="center">Multimodal Transformers</h6>
 
 
 <h4 align="left">Languages and Tools:</h4>
