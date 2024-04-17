@@ -1,4 +1,4 @@
-<h3 align="center">Doing research for SERIS (Secure Efficient Reproducible Systems)</h3>
+<h3 align="center">SERIS Research Lab (Secure Efficient Reproducible Systems)</h3>
 <h6 align="center">Multimodal Transformers</h6>
 
 
